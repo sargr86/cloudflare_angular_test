@@ -1,0 +1,11 @@
+name = "angular-test"
+type = "webpack"
+route = ''
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2022-01-26"
+site = {bucket = "./dist/angular-test",entry-point = "workers-site"}
+account_id = "750477140eb0ee95ba3051b5d74870b5"
+
